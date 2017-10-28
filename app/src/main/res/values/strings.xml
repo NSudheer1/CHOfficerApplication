@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CHOfficerApplication</string>
+
+    <string name="error_intenet_unavailable">Internet not available, Cross check your internet connectivity and try again</string>
+    <string name="retry">Retry</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="request_failed">Request Failed</string>
+    <string name="my_work">My Work</string>
+    <string name="my_office">My Office</string>
+    <string name="my_self">My Self</string>
+    <string name="chat">Chat</string>
+</resources>

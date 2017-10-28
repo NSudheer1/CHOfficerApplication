@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_myhome"
+        android:icon="@drawable/ic_work_black_24dp"
+        android:title="@string/my_work"/>
+
+    <item
+        android:id="@+id/action_myoffice"
+        android:icon="@drawable/ic_computer_black_24dp"
+        android:title="@string/my_office"/>
+
+    <item
+        android:id="@+id/action_myself"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="@string/my_self"/>
+  <item
+        android:id="@+id/action_chat"
+        android:icon="@drawable/ic_chat_black_24dp"
+        android:title="@string/chat"/>
+
+
+</menu>
